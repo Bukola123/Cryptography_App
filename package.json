@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cryptr": "^6.0.2",
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-history": "^1.0.1"
+  },
+  "name": "week-5-task",
+  "version": "1.0.0",
+  "main": "Task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "A simple  app use in  encryting and decryting a text",
+  "devDependencies": {}
+}
